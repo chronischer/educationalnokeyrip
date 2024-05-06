@@ -2507,6 +2507,3 @@ local function FloatingIconHandler_script() -- CubiX.CubiX.FloatingIconHandler
 	end)
 end
 coroutine.wrap(FloatingIconHandler_script)()
-else
-    warn("Cubix key system got closed1!1!1!1")
-end
