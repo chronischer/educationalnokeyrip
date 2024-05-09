@@ -246,8 +246,8 @@ local CubiX = {
 
 
 
-CubiX.CubiX.Name = "CubiX"
-CubiX.CubiX.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+CubiX.CubiX.Name = "tem Aborto na pepsi"
+CubiX.CubiX.Parent = gethui and gethui() or game.Players.LocalPlayer:WaitForChild("PlayerGui")
 CubiX.CubiX.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 CubiX.DarkBackground.Name = "DarkBackground"
 CubiX.DarkBackground.Parent = CubiX.CubiX
